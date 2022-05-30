@@ -27,9 +27,11 @@ Fancy seeing you here!
 
 
 
+
 ## Follow Me
 
 [![Twitter Badge](https://img.shields.io/badge/-eson000-005ABC?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/eson000)](https://twitter.com/eson000)
+[![Blog Badge](https://img.shields.io/badge/-esonblog-563D7C?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.esonwong.com)](https://blog.esonwong.com)
 [![Youtube Badge](https://img.shields.io/badge/-EsonWong-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/itiwll)](https://www.youtube.com/c/itiwll)
 [![Gmail Badge](https://img.shields.io/badge/-esonzero@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esonzero@gmail.com)](mailto:esonzero@gmail.com)
 
